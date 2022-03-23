@@ -11,7 +11,16 @@ This is a ✨ _special_ ✨ repository.
 
 ❥ 🌱 I'm currently learning and growing as a Software Developer.
 
-❥ 📫 Connect with me https://www.instagram.com/yeye776/
+❥ 📫 Connect with me 
+<div>
+    <a href="https://instagram.com/yeye776">
+<img
+src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/yeye776/"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+</div>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAEJIN-JEONG)](https://github.com/YAEJIN-JEONG/github-readme-stats)
