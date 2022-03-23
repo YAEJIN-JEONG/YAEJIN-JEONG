@@ -15,7 +15,7 @@ This is a ✨ _special_ ✨ repository.
 <div>
     <a href="https://instagram.com/yeye776">
 <img
-src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/yeye776/"
+src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://instagram.com/yeye776/"
 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
