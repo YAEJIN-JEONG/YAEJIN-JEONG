@@ -24,9 +24,10 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAEJIN-JEONG)](https://github.com/YAEJIN-JEONG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/YAEJIN-JEON/github-readme-stats)
+    
 
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer)
 
 
 
