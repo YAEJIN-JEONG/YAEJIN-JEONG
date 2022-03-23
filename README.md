@@ -6,9 +6,11 @@ This is a ✨ _special_ ✨ repository.
 ## About me 
 
 ❥ 🏫 Electrical and Electronics Engineering Student at Kangwon National University.
+
 ❥ 🖥 Double Major in Electrical Engineering and IoT Software.
 
 ❥ 🌱 I'm currently learning and growing as a Software Developer.
+
 ❥ 📫 Connect with me https://www.instagram.com/yeye776/
 
 
