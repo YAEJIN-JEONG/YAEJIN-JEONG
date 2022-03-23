@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hello%20I'm Yae Jin🥳&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=HelloI'm Yae Jin🥳%20&fontSize=90)
 
 ### Hello, I'm Yae Jin 🥳
 
