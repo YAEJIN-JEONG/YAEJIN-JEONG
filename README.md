@@ -27,7 +27,7 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=egg&color=gradient&height=300&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer)
 
 
 
