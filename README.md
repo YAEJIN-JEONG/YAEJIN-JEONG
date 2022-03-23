@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hello%20 I'm Yae Jin 🥳&fontSize=90)
+
 ### Hello, I'm Yae Jin 🥳
 
 
@@ -21,7 +23,6 @@ style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAEJIN-JEONG)](https://github.com/YAEJIN-JEONG/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/YAEJIN-JEON/github-readme-stats)
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 </div>
 
