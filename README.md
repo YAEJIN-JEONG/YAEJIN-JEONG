@@ -13,10 +13,6 @@ This is a ✨ _special_ ✨ repository.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YAEJIN-JEONG)](https://github.com/YAEJIN-JEONG/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/YAEJIN-JEONG/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/YAEJIN-JEON/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/YAEJIN-JEON/github-readme-stats)
 
 
