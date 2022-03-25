@@ -1,9 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yae%20Jin👋&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yae%20Jin🥰&fontSize=90)
 
-### Hello, I'm Yae Jin 🥳
-
-
-This is a ✨ _special_ ✨ repository.
 
 ## About me 
 
